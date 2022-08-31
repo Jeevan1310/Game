@@ -4,7 +4,7 @@
 }
 body{
 
-    background: url(neon-future-game-pad-background-vector-35868740.jpeg) no-repeat center center fixed; 
+    background: url(https://images.pling.com/img/00/00/62/67/35/1584405/577c4dc30402a8dfa3915867a59e64a89b7b3498e9f327bcfb0bcc7dfcbf99908e32.jpg) no-repeat center center fixed; 
     background-size: cover;
 }
 h1{
@@ -17,6 +17,7 @@ h1{
 
     font-weight: bolder; 
     background: Linear-gradient(to bottom right,rgb(13, 211, 242), rgb(255, 100, 192) );
+    background-clip:text;
     -webkit-background-clip: text;
     color: transparent;
 }
@@ -30,6 +31,7 @@ h2{
     left: 1vw; 
     font-weight: bolder; 
     background: Linear-gradient(to bottom right,rgb(13, 211, 242), rgb(255, 180, 192));
+    background-clip: text;
     -webkit-background-clip: text; 
     color: transparent;
 }
@@ -68,6 +70,7 @@ h2{
     position: relative;
     height: 20px; 
     top: 100px; 
+    background-clip: border-box;
     -webkit-background-clip: border-box;
     margin-top: -20px;
     background: Linear-gradient(to bottom right,rgb(13, 211, 242),rgb(255, 188, 192));
