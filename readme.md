@@ -12,3 +12,5 @@ A simple game made using js and html my first try . this project is inspired fro
 ## Demo
 
 <--link to demo-->
+
+#edited
